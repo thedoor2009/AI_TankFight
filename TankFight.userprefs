@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Mine_Manager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Game_Manager.cs" Line="36" Column="14" />
+      <File FileName="Assets\Scripts\Mine_Manager.cs" Line="30" Column="31" />
+      <File FileName="Assets\Scripts\Tank_Weight_Genetic.cs" Line="137" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
